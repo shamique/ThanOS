@@ -1,2 +1,2 @@
 import pdb
-print
+printw
