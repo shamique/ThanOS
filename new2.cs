@@ -1,2 +1,2 @@
 
-ole.log
+console.log
