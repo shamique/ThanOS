@@ -7,4 +7,3 @@ function add(a, b){
 function echo(text) {
   return text;
 }
-
