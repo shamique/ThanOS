@@ -8,4 +8,4 @@ function echo(text) {
   return text;
 }
 
-console.log()
+console.log
